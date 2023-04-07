@@ -26,9 +26,9 @@ The File Structure of our Code is...
 
 
 / (reactBoilerPlate)
-├── node_modules/...
-├── src
-│   ├── components/
+├── node_modules/...\n
+├── src\n
+│   ├── components/\n
 │   │   └── App.js
 │   ├── index.html
 │   └── index.js

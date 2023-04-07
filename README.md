@@ -19,7 +19,9 @@ Dependencies
     @babel/preset-react - -> compiles our JSX files to JavaScript
 
     (not necessary, but...)
-    html-sebpack-plugin - -> allows us to keep our source files separate from our distribution files and auto-generates our index.html file with a script tag pointing to our bundled JavaScript
+    html-sebpack-plugin - -> allows us to keep our source files 
+    separate from our distribution files and auto-generates our 
+    index.html file with a script tag pointing to our bundled JavaScript
 
 
 The File Structure of our Code is...

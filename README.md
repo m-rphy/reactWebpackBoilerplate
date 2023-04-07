@@ -9,7 +9,7 @@ Dependencies
     react 
     react-dom
 
-DevDependencies
+    DevDependencies
     webpack - - - - - - - -> to bundle and compile our code
     webpack-cli - - - - - -> to interact with our code
     webpack-dev-server- - -> provides us with a live-reloading development server
@@ -25,17 +25,17 @@ DevDependencies
 The File Structure of our Code is...
 
 
-/ (reactBoilerPlate)
-├── node_modules/...\n
-├── src\n
-│   ├── components/\n
-│   │   └── App.js
-│   ├── index.html
-│   └── index.js
-├── .babelrc
-├── package-lock.json
-├── package.json
-└── webpack.config.js 
+    / (reactBoilerPlate)
+    ├── node_modules/...
+    ├── src\n
+    │   ├── components/\n
+    │   │   └── App.js
+    │   ├── index.html
+    │   └── index.js
+    ├── .babelrc
+    ├── package-lock.json
+    ├── package.json
+    └── webpack.config.js 
 
 TODO 
 
